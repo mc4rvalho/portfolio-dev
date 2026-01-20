@@ -30,7 +30,7 @@ export const Projects = () => {
       tags: ["JavaScript", "API Rest", "CSS Modules"],
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=1000",
-      repoUrl: "https://github.com/mcarvalho093",
+      repoUrl: "https://github.com/mc4rvalho/weather-app",
       demoUrl: "#",
     },
   ];
