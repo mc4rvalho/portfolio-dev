@@ -13,14 +13,14 @@ export const Projects = () => {
       demoUrl: "https://seu-projeto.vercel.app",
     },
     {
-      title: "Landing Page Institucional",
+      title: "Gestão do Sport Futmesa",
       description:
-        "Desenvolvimento de uma landing page de alta conversão para uma empresa de consultoria. O desafio foi implementar animações suaves e garantir nota 100 no Google Lighthouse.",
-      tags: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+        "Sistema completo para organização do elenco. Permite cadastro de usuários, cadastro do calendário, cadastrar os campeonatos e acompanhamento de pontuação em tempo real. Resolveu o problema de planilhas manuais complexas.",
+      tags: ["React", "TypeScript", "Nextjs", "Tailwind CSS", "MySQL"],
       image:
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1000", // Imagem placeholder
-      repoUrl: "https://github.com/seu-usuario/repo",
-      demoUrl: "https://seu-projeto.vercel.app",
+        "https://images.unsplash.com/photo-1552667466-07770ae110d0?auto=format&fit=crop&q=80&w=1000",
+      repoUrl: "https://github.com/mcarvalho093", // Atualize com o link real depois
+      demoUrl: "#",
     },
     {
       title: "App de Clima",

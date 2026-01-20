@@ -18,7 +18,7 @@ export const Footer = () => {
         {/* Lado Direito: Redes Sociais */}
         <div className="flex gap-6">
           <a
-            href="https://github.com/seu-usuario"
+            href="https://github.com/mc4rvalho"
             target="_blank"
             rel="noreferrer"
             className="text-secondary hover:text-primary transition-colors"
@@ -34,7 +34,7 @@ export const Footer = () => {
           </a>
 
           <a
-            href="https://linkedin.com/in/seu-usuario"
+            href="https://linkedin.com/in/mcarvalho-dev"
             target="_blank"
             rel="noreferrer"
             className="text-secondary hover:text-primary transition-colors"
@@ -46,7 +46,7 @@ export const Footer = () => {
           </a>
 
           <a
-            href="mailto:seu-email@gmail.com"
+            href="mailto:mcarvalho093@gmail.com"
             className="text-secondary hover:text-primary transition-colors"
             aria-label="Email"
           >

@@ -21,9 +21,9 @@ export const Hero = () => {
 
         {/* Subtítulo / Pitch */}
         <p className="text-lg md:text-xl text-secondary max-w-2xl mb-10 leading-relaxed">
-          Olá, sou <strong className="text-content">Matheus da Silva Carvalho</strong>. Uni minha
-          experiência comercial à tecnologia para criar interfaces que não
-          apenas funcionam, mas resolvem problemas reais. Especialista em
+          Olá, sou <strong className="text-content">Matheus Carvalho</strong>.
+          Uni minha experiência comercial à tecnologia para criar interfaces que
+          não apenas funcionam, mas resolvem problemas reais. Especialista em
           traduzir necessidades de clientes em código limpo.
         </p>
 
@@ -54,17 +54,36 @@ export const Hero = () => {
           </a>
         </div>
 
-        {/* Tech Stack (Rodapé da seção) */}
+        {/* Tech Stack (Rodapé da seção com Ícones) */}
         <div className="mt-20 pt-8 border-t border-secondary/20">
           <p className="text-sm text-secondary mb-4 uppercase tracking-wider font-semibold">
             Tech Stack
           </p>
-          <div className="flex gap-8 opacity-70 grayscale hover:grayscale-0 transition-all duration-300">
-            {/* Você pode substituir por ícones SVG reais depois */}
-            <span className="font-bold text-content">REACT</span>
-            <span className="font-bold text-content">TYPESCRIPT</span>
-            <span className="font-bold text-content">TAILWIND</span>
-            <span className="font-bold text-content">GIT</span>
+          <div className="flex gap-6 items-center">
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              alt="React"
+              className="w-8 h-8 hover:scale-110 transition-transform cursor-pointer"
+              title="React"
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+              alt="TypeScript"
+              className="w-8 h-8 hover:scale-110 transition-transform cursor-pointer"
+              title="TypeScript"
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+              alt="Tailwind"
+              className="w-8 h-8 hover:scale-110 transition-transform cursor-pointer"
+              title="Tailwind CSS"
+            />
+            <img
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+              alt="Git"
+              className="w-8 h-8 hover:scale-110 transition-transform cursor-pointer"
+              title="Git"
+            />
           </div>
         </div>
       </div>
