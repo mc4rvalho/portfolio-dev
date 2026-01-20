@@ -10,8 +10,8 @@ export const Projects = () => {
       tags: ["React", "TypeScript", "Chart.js", "Styled Components"],
       image:
         "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
-      repoUrl: "https://github.com/mcarvalho093",
-      demoUrl: "#",
+      repoUrl: "https://github.com/mc4rvalho/dashboard-financeiro",
+      demoUrl: "mc4rvalho.github.io/dashboard-financeiro/",
     },
     {
       title: "Gestão do Sport Futmesa",
@@ -20,7 +20,7 @@ export const Projects = () => {
       tags: ["React", "TypeScript", "Nextjs", "Tailwind CSS", "MySQL"],
       image:
         "https://images.unsplash.com/photo-1552667466-07770ae110d0?auto=format&fit=crop&q=80&w=1000",
-      repoUrl: "https://github.com/mcarvalho093",
+      repoUrl: "https://github.com/mc4rvalho/sport-app",
       demoUrl: "#",
     },
     {
@@ -30,8 +30,8 @@ export const Projects = () => {
       tags: ["JavaScript", "API Rest", "CSS Modules"],
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=1000",
-      repoUrl: "https://github.com/mcarvalho093",
-      demoUrl: "#",
+      repoUrl: "https://github.com/mc4rvalho/weather-app",
+      demoUrl: "mc4rvalho.github.io/weather-app/",
     },
   ];
 
