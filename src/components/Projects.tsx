@@ -10,7 +10,7 @@ export const Projects = () => {
       tags: ["React", "TypeScript", "Chart.js", "Styled Components"],
       image:
         "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
-      repoUrl: "https://github.com/mcarvalho093",
+      repoUrl: "https://github.com/mc4rvalho/dashboard-financeiro",
       demoUrl: "#",
     },
     {
