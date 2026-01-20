@@ -11,7 +11,7 @@ export const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
       repoUrl: "https://github.com/mc4rvalho/dashboard-financeiro",
-      demoUrl: "mc4rvalho.github.io/dashboard-financeiro/",
+      demoUrl: "https://mc4rvalho.github.io/dashboard-financeiro/",
     },
     {
       title: "Gestão do Sport Futmesa",
@@ -31,7 +31,7 @@ export const Projects = () => {
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=1000",
       repoUrl: "https://github.com/mc4rvalho/weather-app",
-      demoUrl: "mc4rvalho.github.io/weather-app/",
+      demoUrl: "https://mc4rvalho.github.io/weather-app/",
     },
   ];
 
