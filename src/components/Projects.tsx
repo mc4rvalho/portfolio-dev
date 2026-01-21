@@ -7,7 +7,7 @@ export const Projects = () => {
       title: "Dashboard Financeiro",
       description:
         "Uma aplicação de controle de gastos pessoais que permite visualização de dados em gráficos interativos. O foco foi criar uma experiência mobile-first com performance otimizada.",
-      tags: ["React", "TypeScript", "Chart.js", "Styled Components"],
+      tags: ["React", "TypeScript", "Tailwind CSS", "Styled Components"],
       image:
         "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
       repoUrl: "https://github.com/mc4rvalho/dashboard-financeiro",
@@ -27,7 +27,7 @@ export const Projects = () => {
       title: "App de Clima",
       description:
         "Consumindo a OpenWeather API para fornecer previsões em tempo real. Implementei geolocalização e tratamento de erros robusto para conexões lentas.",
-      tags: ["JavaScript", "API Rest", "CSS Modules"],
+      tags: ["React", "TypeScript", "API Rest", "Tailwind CSS"],
       image:
         "https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&q=80&w=1000",
       repoUrl: "https://github.com/mc4rvalho/weather-app",
